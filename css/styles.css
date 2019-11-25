@@ -7,6 +7,7 @@ h2,
 h3 {
   font-family: "Lobster", cursive;
 }
+
 h2 {
   color: #3046c5;
 }
@@ -34,4 +35,10 @@ header h2 {
 }
 .navbar {
   background-color: #901cad;
+}
+
+.tab-content {
+  border: 1px solid #ddd;
+  border-top: none;
+  padding: 10px;
 }
